@@ -1,0 +1,6 @@
+{
+  "name": "LUMA - Mental Wellness Companion",
+  "description": "A warm, modern mental-wellness companion for mindful check-ins, mood tracking, AI companion support, calming exercises, gratitude journaling, and relaxing entertainment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
